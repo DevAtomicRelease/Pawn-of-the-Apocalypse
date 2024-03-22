@@ -11,6 +11,7 @@ The game is currently under active development and will be updated regularly.
 ## resource
 - [Craftpix](https://craftpix.net/) - Provides a huge game assest and resources.
 - [Gamemaker documentation](https://manual.gamemaker.io/monthly/en/) - Gamemaker manual for helping with the troubleshooting.
+## Gameplay Screenshots
 
 
 ![1](https://github.com/DevAtomicRelease/Pawn-of-the-Apocalypse/assets/154013364/407fcb2d-f1db-4e0a-84f4-0e863d8e2596)
