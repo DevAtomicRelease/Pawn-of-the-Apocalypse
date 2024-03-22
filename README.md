@@ -5,7 +5,10 @@ This game is featured with amazing graphics, multiple levels, and an incredible 
 - Intense shooting gameplay
 - Different types of enemies with different behaviour
 - Multiple levels with defferent difficulties
-
+- storyline with plote twists
+## Development status 
+The game is currently under active development and will be updated regularly.
+Craftpix(https://craftpix.net/)- Provides a huge game assest and resourcesm. 
 
 ![1](https://github.com/DevAtomicRelease/Pawn-of-the-Apocalypse/assets/154013364/407fcb2d-f1db-4e0a-84f4-0e863d8e2596)
 ![Screenshot 2023-12-25 204338](https://github.com/DevAtomicRelease/Pawn-of-the-Apocalypse/assets/154013364/c02e8c52-5747-40e7-acce-94af5546401e)
