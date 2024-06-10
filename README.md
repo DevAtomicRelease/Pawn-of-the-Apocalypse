@@ -5,7 +5,7 @@ This game is featured with amazing graphics, multiple levels, and an incredible 
 - Intense shooting gameplay
 - Different types of enemies with different behaviour
 - Multiple levels with defferent difficulties
-- storyline with plote twists
+- storyline with plot twists
 ## Development status 
 The game is currently under active development and will be updated regularly.
 ## resource
